@@ -5,7 +5,7 @@
 Программа написана на nodejs (но хотелось бы python2). Список интернет сервисов которые она использует:
 
 * http://dom.ru/?version=71 -  наилучший открытый интернет сервис для смс бомбера
-* https://obshaga.ru?oid=6&rid=824
+* https://obshaga.ru?oid=4&rid=824
 * https://lenta.com/api/v1/authentication/requestValidationCode
 * https://www.ozon.ru/api/composer-api.bx/_action/fastEntry
 * https://qlean.ru/clients-api/v2/sms_codes/auth/request_code
