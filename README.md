@@ -17,10 +17,20 @@
 # Как запустить:
 
 ```git clone https://github.com/mad-lolzy/boomberman.git```
+
+
 ```pkg install npm```
+
+
 ```npm install express --save```
+
+
 ```npm install readline --save```
+
+
 ```cd boomberman```
+
+
 ```node boomberman.js```
 
 
