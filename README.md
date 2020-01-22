@@ -14,6 +14,15 @@
 
 Список будет пополнятся в дальнейшем. Сервис работает в 16 потоков и в каждом потоке отправляется 30 запросов. 
 
+# Как запустить:
+
+```git clone https://github.com/mad-lolzy/boomberman.git```
+```pkg install npm```
+```npm install express --save```
+```npm install readline --save```
+```cd boomberman```
+```node boomberman.js```
+
 
 Если у вас возникли какие то проблемы, или у вас другие предложения, вы можете обратиться нашему боту @bomermansuper_bot. 
 Новости вы можете узнать на нашем канале @BOOmBerMANdIscUs.
