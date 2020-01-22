@@ -1,0 +1,27 @@
+{
+  "name": "boomberman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mad-lolzy/boomberman.git"
+  },
+  "keywords": [
+    "sms",
+    "bomber"
+  ],
+  "author": "boommerman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mad-lolzy/boomberman/issues"
+  },
+  "homepage": "https://github.com/mad-lolzy/boomberman#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
